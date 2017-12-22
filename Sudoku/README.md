@@ -1,6 +1,6 @@
 # Artificial Intelligence Nanodegree
 ## Introductory Project: Diagonal Sudoku Solver
-# Author:  Ramin Mohammadi
+#### Author:  Ramin Mohammadi
 
 # Question 1 (Naked Twins)
 Q: How do we use constraint propagation to solve the naked twins problem?  
