@@ -398,7 +398,7 @@ class AlphaBetaPlayer(IsolationPlayer):
             if v <= alpha:
                 return v
             beta = min(beta, v)
-        return beta
+        return v
 
 
     def max_value(self, game, depth, alpha, beta):
@@ -413,5 +413,5 @@ class AlphaBetaPlayer(IsolationPlayer):
             if v >= beta:
                 return v
             alpha = max(alpha, v)
-        return alpha
+        return v
 
