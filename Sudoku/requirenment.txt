@@ -1,4 +1,4 @@
-bleach==2.1.1
+bleach==3.1.2
 brewer2mpl==1.4.1
 certifi==2017.7.27.1
 cycler==0.10.0
